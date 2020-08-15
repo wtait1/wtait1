@@ -1,16 +1,18 @@
-### Hi there 👋
+### [Hello there](https://www.youtube.com/watch?v=rEq1Z0bjdwc) 🍉
 
-<!--
-**wtait1/wtait1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Will! I'm a software engineer interested in developer productivity, CI/CD automation, and cloud native development. I'm always trying to do more on my computer with keyboard shortcuts.
 
-Here are some ideas to get you started:
+#### 🌱 Repositories I created recently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [wtait1/auto-release-test](https://github.com/wtait1/auto-release-test)
+- [wtait1/website](https://github.com/wtait1/website) - Static content for
+
+#### ✏️ Some of my recent activity
+
+- [lshadler/game-jam-july-2020](https://github.com/lshadler/game-jam-july-2020) - Gamemaker&#39;s toolkit sponsored game jam 1 month ago
+- [wtait1/website](https://github.com/wtait1/website) - Static content for 3 months ago
+- [intuit/ReplayZero](https://github.com/intuit/ReplayZero) - Record local web traffic on your laptop and generate functional API tests, utilizing open source industry standards like Karate and Gatling 4 months ago
+- [wtait1/auto-release-test](https://github.com/wtait1/auto-release-test) -  4 months ago
+
+#### 📋 Gists I made
+
