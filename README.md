@@ -2,6 +2,8 @@
 
 I'm Will! I'm a software engineer interested in developer productivity, CI/CD automation, and cloud native development. I'm always trying to do more on my computer with keyboard shortcuts.
 
+Quick shoutout to [readme-scribe](https://github.com/muesli/readme-scribe) for this awesome auto-generated profile README!
+
 #### 🌱 Repositories I created recently
 
 - [wtait1/auto-release-test](https://github.com/wtait1/auto-release-test)
