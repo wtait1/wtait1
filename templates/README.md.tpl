@@ -9,7 +9,7 @@ I'm Will! I'm a software engineer interested in developer productivity, CI/CD au
 
 #### ✏️ Some of my recent activity
 {{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} {{humanize .OccurredAt}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
 #### 📋 Gists I made
