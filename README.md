@@ -12,9 +12,9 @@ Quick shoutout to [readme-scribe](https://github.com/muesli/readme-scribe) for t
 
 #### ✏️  Some of my recent activity
 
+- [intuit/ReplayZero](https://github.com/intuit/ReplayZero) - Record local web traffic on your laptop and generate functional API tests, utilizing open source industry standards like Karate and Gatling (6 days ago)
 - [wtait1/homebrew-brews](https://github.com/wtait1/homebrew-brews) - Tap repo for my available Homebrew formulae (1 month ago)
 - [wtait1/ddf](https://github.com/wtait1/ddf) - Golang CLI tool to De-Duplicate Files (1 month ago)
-- [intuit/ReplayZero](https://github.com/intuit/ReplayZero) - Record local web traffic on your laptop and generate functional API tests, utilizing open source industry standards like Karate and Gatling (2 months ago)
 - [wtait1/website](https://github.com/wtait1/website) - Static content for my personal Gatsby site (2 months ago)
 - [lshadler/game-jam-july-2020](https://github.com/lshadler/game-jam-july-2020) - Gamemaker&#39;s toolkit sponsored game jam (3 months ago)
 
