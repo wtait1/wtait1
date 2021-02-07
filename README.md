@@ -16,7 +16,7 @@ Quick shoutout to [readme-scribe](https://github.com/muesli/readme-scribe) for t
 - [wtait1/homebrew-brews](https://github.com/wtait1/homebrew-brews) - Tap repo for my available Homebrew formulae (4 months ago)
 - [wtait1/ddf](https://github.com/wtait1/ddf) - Golang CLI tool to De-Duplicate Files (4 months ago)
 - [wtait1/website](https://github.com/wtait1/website) - Static content for my personal Gatsby site (5 months ago)
-- [lshadler/game-jam-july-2020](https://github.com/lshadler/game-jam-july-2020) - Gamemaker&#39;s toolkit sponsored game jam (6 months ago)
+- [lshadler/game-jam-july-2020](https://github.com/lshadler/game-jam-july-2020) - Gamemaker&#39;s toolkit sponsored game jam (7 months ago)
 
 #### 📋  Gists I made
 
