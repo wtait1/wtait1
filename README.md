@@ -12,9 +12,9 @@ Quick shoutout to [readme-scribe](https://github.com/muesli/readme-scribe) for t
 
 #### ✏️  Some of my recent activity
 
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (2 weeks ago)
-- [wtait1/env](https://github.com/wtait1/env) - A place to store / sync my dev environment (dotfiles, brew formulae) &#43; related scripts (2 months ago)
-- [intuit/ReplayZero](https://github.com/intuit/ReplayZero) - Record local web traffic on your laptop and generate functional API tests, utilizing open source industry standards like Karate and Gatling (7 months ago)
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (3 weeks ago)
+- [wtait1/env](https://github.com/wtait1/env) - A place to store / sync my dev environment (dotfiles, brew formulae) &#43; related scripts (3 months ago)
+- [intuit/ReplayZero](https://github.com/intuit/ReplayZero) - Record local web traffic on your laptop and generate functional API tests, utilizing open source industry standards like Karate and Gatling (8 months ago)
 - [wtait1/homebrew-brews](https://github.com/wtait1/homebrew-brews) - Tap repo for my available Homebrew formulae (9 months ago)
 - [wtait1/ddf](https://github.com/wtait1/ddf) - Golang CLI tool to De-Duplicate Files (9 months ago)
 
