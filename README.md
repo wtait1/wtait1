@@ -6,14 +6,14 @@ Quick shoutout to [readme-scribe](https://github.com/muesli/readme-scribe) for t
 
 #### 🌱  Repositories I created recently
 
-- [wtait1/env](https://github.com/wtait1/env) - A place to store / sync my dev environment (dotfiles, brew formulae) &#43; related scripts
+- [wtait1/dot](https://github.com/wtait1/dot) - automation to backup &#43; restore shell config, brews, etc.
 - [wtait1/homebrew-brews](https://github.com/wtait1/homebrew-brews) - Tap repo for my available Homebrew formulae
 - [wtait1/ddf](https://github.com/wtait1/ddf) - Golang CLI tool to De-Duplicate Files
 
 #### ✏️  Some of my recent activity
 
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (2 months ago)
-- [wtait1/env](https://github.com/wtait1/env) - A place to store / sync my dev environment (dotfiles, brew formulae) &#43; related scripts (4 months ago)
+- [wtait1/dot](https://github.com/wtait1/dot) - automation to backup &#43; restore shell config, brews, etc. (4 days ago)
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (3 months ago)
 - [intuit/ReplayZero](https://github.com/intuit/ReplayZero) - Record local web traffic on your laptop and generate functional API tests, utilizing open source industry standards like Karate and Gatling (10 months ago)
 - [wtait1/homebrew-brews](https://github.com/wtait1/homebrew-brews) - Tap repo for my available Homebrew formulae (11 months ago)
 - [wtait1/ddf](https://github.com/wtait1/ddf) - Golang CLI tool to De-Duplicate Files (11 months ago)
