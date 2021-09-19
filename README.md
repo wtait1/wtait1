@@ -15,7 +15,6 @@ Quick shoutout to [readme-scribe](https://github.com/muesli/readme-scribe) for t
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (3 months ago)
 - [intuit-archive/ReplayZero](https://github.com/intuit-archive/ReplayZero) - Record local web traffic on your laptop and generate functional API tests, utilizing open source industry standards like Karate and Gatling (10 months ago)
 - [wtait1/homebrew-brews](https://github.com/wtait1/homebrew-brews) - Tap repo for my available Homebrew formulae (1 year ago)
-- [wtait1/ddf](https://github.com/wtait1/ddf) - Golang CLI tool to De-Duplicate Files (1 year ago)
 
 #### 📋  Gists I made
 
