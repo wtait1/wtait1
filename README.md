@@ -6,15 +6,15 @@ Quick shoutout to [readme-scribe](https://github.com/muesli/readme-scribe) for t
 
 #### 🌱  Repositories I created recently
 
+- [wtait1/dot](https://github.com/wtait1/dot) - automation to backup &#43; restore system configuration (brews, vscode extensions, etc.)
 - [wtait1/homebrew-brews](https://github.com/wtait1/homebrew-brews) - Tap repo for my available Homebrew formulae
 - [wtait1/ddf](https://github.com/wtait1/ddf) - Golang CLI tool to De-Duplicate Files
-- [wtait1/auto-release-test](https://github.com/wtait1/auto-release-test)
 
 #### ✏️  Some of my recent activity
 
+- [wtait1/dot](https://github.com/wtait1/dot) - automation to backup &#43; restore system configuration (brews, vscode extensions, etc.) (2 days ago)
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (3 months ago)
-- [intuit-archive/ReplayZero](https://github.com/intuit-archive/ReplayZero) - Record local web traffic on your laptop and generate functional API tests, utilizing open source industry standards like Karate and Gatling (10 months ago)
-- [wtait1/homebrew-brews](https://github.com/wtait1/homebrew-brews) - Tap repo for my available Homebrew formulae (1 year ago)
+- [intuit-archive/ReplayZero](https://github.com/intuit-archive/ReplayZero) - Record local web traffic on your laptop and generate functional API tests, utilizing open source industry standards like Karate and Gatling (11 months ago)
 
 #### 📋  Gists I made
 
