@@ -13,7 +13,7 @@ Quick shoutout to [readme-scribe](https://github.com/muesli/readme-scribe) for t
 #### ✏️  Some of my recent activity
 
 - [wtait1/dot](https://github.com/wtait1/dot) - automation to backup &#43; restore system configuration (brews, vscode extensions, etc.) (1 month ago)
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (4 months ago)
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (5 months ago)
 - [intuit-archive/ReplayZero](https://github.com/intuit-archive/ReplayZero) - Record local web traffic on your laptop and generate functional API tests, utilizing open source industry standards like Karate and Gatling (1 year ago)
 
 #### 📋  Gists I made
