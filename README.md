@@ -21,5 +21,5 @@ Quick shoutout to [readme-scribe](https://github.com/muesli/readme-scribe) for t
 
 #### 📣  Recent blog posts
 
-- [First post! How this website runs](https://wtait.me/posts/1/) (2 years ago)
+- [First post! How this website runs](https://wtait.me/posts/1/) (3 years ago)
 
