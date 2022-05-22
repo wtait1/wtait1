@@ -6,13 +6,13 @@ Quick shoutout to [readme-scribe](https://github.com/muesli/readme-scribe) for t
 
 #### 🌱  Repositories I created recently
 
+- [wtait1/pranks](https://github.com/wtait1/pranks)
 - [wtait1/dot](https://github.com/wtait1/dot) - automation to backup &#43; restore system configuration (brews, vscode extensions, etc.)
 - [wtait1/homebrew-brews](https://github.com/wtait1/homebrew-brews) - Tap repo for my available Homebrew formulae
-- [wtait1/ddf](https://github.com/wtait1/ddf) - Golang CLI tool to De-Duplicate Files
 
 #### ✏️  Some of my recent activity
 
-- [wtait1/dot](https://github.com/wtait1/dot) - automation to backup &#43; restore system configuration (brews, vscode extensions, etc.) (7 months ago)
+- [wtait1/dot](https://github.com/wtait1/dot) - automation to backup &#43; restore system configuration (brews, vscode extensions, etc.) (8 months ago)
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (11 months ago)
 
 #### 📋  Gists I made
