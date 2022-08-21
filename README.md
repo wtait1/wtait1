@@ -12,7 +12,7 @@ Quick shoutout to [readme-scribe](https://github.com/muesli/readme-scribe) for t
 
 #### ✏️  Some of my recent activity
 
-- [wtait1/dot](https://github.com/wtait1/dot) - automation to backup &#43; restore system configuration (brews, vscode extensions, etc.) (10 months ago)
+- [wtait1/dot](https://github.com/wtait1/dot) - automation to backup &#43; restore system configuration (brews, vscode extensions, etc.) (11 months ago)
 
 #### 📋  Gists I made
 
